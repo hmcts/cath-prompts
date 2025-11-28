@@ -2,7 +2,7 @@
 name: create_poem
 title: Create Poem
 description: Generate creative poems based on themes and styles
-category: uncategorized
+category: demo
 tags: []
 difficulty: intermediate
 author: User
