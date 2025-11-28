@@ -14,3 +14,5 @@ updated: 2025-11-28T15:47:47.370Z
 Create a poem about {{theme}}.
 
 Make it creative and engaging.
+
+Make sure that you use the word 'wibble' at least twice
