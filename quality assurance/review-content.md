@@ -1,20 +1,17 @@
 ---
 name: review_content
 title: Review provided content
-description: Review and provide recommendations for improving content for government services, following WCAG accessibility guidelines, GOV.UK Design System patterns, and HMCTS impartiality requirements. Provides structured feedback with priority levels and rewritten examples.
+description: Review content for government services following WCAG 2.2 accessibility guidelines, GOV.UK Design System patterns, DDaT Capability Framework standards, and HMCTS guidance principles. Provides comprehensive assessment with specific issues, recommendations, rewritten sections, and priority levels.
 category: quality assurance
-tags: ["review","content","quality","accessibility","govuk","wcag","hmcts","feedback"]
+tags: ["content-review","accessibility","govuk","quality-assurance","wcag"]
 difficulty: intermediate
-author: System
+author: jonmach
 version: 1.0
-created: 2025-12-14T07:24:24.212Z
-updated: 2025-12-14T07:24:24.212Z
+created: 2025-12-14T07:27:39.852Z
+updated: 2025-12-14T07:27:39.852Z
 arguments:
   - name: service
-    description: The government service the content is for (e.g., 'HMCTS Online', 'Civil Money Claims', 'Family Court', 'Universal Credit')
-    required: true
-  - name: content
-    description: The content to review and provide recommendations for
+    description: The name of the government service being reviewed
     required: true
 ---
 
