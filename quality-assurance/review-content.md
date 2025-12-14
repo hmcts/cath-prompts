@@ -1,11 +1,11 @@
 ---
 name: review_content
 title: Review provided content
-description: Review content for government services against WCAG 2.2 accessibility guidelines, GOV.UK Design System patterns, DDaT Capability Framework standards, and HMCTS guidance. Provides comprehensive assessment with specific issues, recommendations, rewritten sections, and priority levels.
+description: Analyses existing content against standards and provides prioritised recommendations and rewritten sections.
 category: quality-assurance
 tags: ["content-review","accessibility","govuk","quality-assurance","wcag"]
 difficulty: intermediate
-author: User Request
+author: Prompt Team
 version: 1.0
 created: 2025-12-14T07:34:12.698Z
 updated: 2025-12-14T07:34:12.698Z
