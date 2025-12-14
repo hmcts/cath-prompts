@@ -1,11 +1,11 @@
 ---
 name: legal_professional_guidance
 title: Legal-professional guidance
-description: Generate guidance content for legal professionals using a specific service, following GOV.UK design principles, WCAG accessibility guidelines, and maintaining impartiality while using appropriate legal terminology.
+description: Creates technical guidance content for legal professionals using appropriate terminology while maintaining clarity.
 category: product-requirements
 tags: ["legal","guidance","govuk","accessibility","content-design"]
 difficulty: intermediate
-author: system
+author: Prompt Team
 version: 1.0
 created: 2025-12-14T00:47:07.063Z
 updated: 2025-12-14T00:47:07.063Z
