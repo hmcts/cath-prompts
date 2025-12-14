@@ -1,11 +1,11 @@
 ---
 name: requirements_into_content
 title: Turn requirements into first-draft content
-description: Transforms service requirements into first-draft content following GOV.UK design standards, WCAG accessibility guidelines, and HMCTS impartial guidance principles.
+description: Transforms technical requirements into user-facing content that meets GOV.UK standards.
 category: product-requirements
 tags: ["govuk","accessibility","content-design","requirements","wcag"]
 difficulty: intermediate
-author: jonmach
+author: Prompt Team
 version: 1.0
 created: 2025-12-14T07:36:24.376Z
 updated: 2025-12-14T07:36:24.376Z
