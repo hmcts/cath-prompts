@@ -1,11 +1,11 @@
 ---
 name: citizen_guidance
 title: Citizen guidance page
-description: A prompt for content designers to draft guidance pages for citizens using government services. Follows WCAG 2.2 accessibility guidelines, GOV.UK Design System patterns, and HMCTS impartial guidance principles.
+description: Writes a guidance page to help citizens understand and use a service.
 category: product-requirements
 tags: ["government","accessibility","content-design","guidance","govuk"]
 difficulty: intermediate
-author: Content Design Team
+author: Prompt Team
 version: 1.0
 created: 2025-12-14T00:44:29.135Z
 updated: 2025-12-14T00:44:29.135Z
