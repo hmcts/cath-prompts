@@ -5,7 +5,7 @@ description: Drafts accessible, user-friendly content for a single service scree
 category: product-requirements
 tags: ["government","accessibility","content-design","ux","govuk"]
 difficulty: intermediate
-author: System
+author: Prompt Team
 version: 1.0
 created: 2025-12-14T00:39:29.011Z
 updated: 2025-12-14T00:39:29.011Z
