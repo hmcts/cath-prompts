@@ -1,7 +1,7 @@
 ---
 name: multi_screen_journey
 title: Multi-screen Journey
-description: Draft a sequence of screens for government services following GOV.UK design standards, WCAG accessibility guidelines, and HMCTS impartiality requirements for multi-screen journeys.
+description: Creates a sequence of connected screens with content for each step and notes on how they fit together in the user journey.
 category: product-requirements
 tags: ["government","accessibility","content-design","ux","govuk","journey-mapping","multi-screen"]
 difficulty: intermediate
