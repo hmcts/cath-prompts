@@ -1,11 +1,11 @@
 ---
 name: email_notification_legal_professional
 title: Email notification to legal professional
-description: Generate professional email notifications for legal professionals following GOV.UK design standards, WCAG accessibility guidelines, and HMCTS impartiality requirements. Creates structured emails with appropriate legal terminology while maintaining clarity and accessibility.
+description: Writes a professional email notification for legal practitioners with case details and required actions.
 category: product-requirements
 tags: ["email","notification","legal","govuk","accessibility","wcag","hmcts"]
 difficulty: intermediate
-author: System
+author: Prompt Team
 version: 1.0
 created: 2025-12-14T07:21:55.992Z
 updated: 2025-12-14T07:21:55.992Z
