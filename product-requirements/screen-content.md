@@ -1,7 +1,7 @@
 ---
 name: screen_content
 title: Screen content
-description: Draft screen content for government services following GOV.UK design standards, WCAG accessibility guidelines, and HMCTS impartiality requirements
+description: Drafts accessible, user-friendly content for a single service screen including questions, fields, hints, and error messages.
 category: product-requirements
 tags: ["government","accessibility","content-design","ux","govuk"]
 difficulty: intermediate
