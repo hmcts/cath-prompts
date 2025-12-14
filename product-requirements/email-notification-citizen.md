@@ -1,11 +1,11 @@
 ---
 name: email_notification_citizen
 title: Email notification to Citizen
-description: Draft an email notification for citizens using a government service, following WCAG 2.2 accessibility guidelines, GOV.UK Design System patterns, and the Human Voice of Justice approach.
+description: Drafts a clear, accessible email notification for citizens about important service updates or actions.
 category: product-requirements
 tags: ["email","notification","citizen","government","accessibility","govuk"]
 difficulty: intermediate
-author: Content Designer
+author: Prompt Team
 version: 1.0
 created: 2025-12-14T00:49:06.967Z
 updated: 2025-12-14T00:49:06.967Z
