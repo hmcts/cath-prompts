@@ -3,7 +3,7 @@ name: requirements_into_content
 title: Turn requirements into first-draft content
 description: Transforms technical requirements into user-facing content that meets GOV.UK standards.
 category: product-requirements
-tags: ["govuk","accessibility","content-design","requirements","wcag"]
+tags: ["govuk","accessibility","content-design","requirements","wcag","user-facing","user-research"]
 difficulty: intermediate
 author: Prompt Team
 version: 1.0
