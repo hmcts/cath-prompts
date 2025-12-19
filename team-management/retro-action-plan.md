@@ -3,7 +3,7 @@ name: retro_action_plan
 title: Retrospective action plan
 description: Converts retrospective feedback into prioritised, actionable improvement items with owners and timelines
 category: team-management
-tags: ["retrospective","action-plan","team-management","agile","continuous-improvement"]
+tags: ["retrospective","action-plan","team-management","agile","continuous-improvement","prioritisation","owners","timelines","actions","success-criteria","dependencies"]
 difficulty: intermediate
 author: Prompt Team
 version: 1.0
