@@ -3,7 +3,7 @@ name: prioritisation_matrix
 title: Feature prioritisation matrix
 description: Evaluates and ranks features using a scoring framework (value, effort, risk, strategic fit).
 category: delivery
-tags: ["prioritisation","features","matrix","scoring","product-management"]
+tags: ["prioritisation","features","matrix","scoring","product-management", "criteria"]
 difficulty: intermediate
 author: Prompt Team
 version: 1.0
