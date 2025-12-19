@@ -3,7 +3,7 @@ name: email_notification_legal_professional
 title: Email notification to legal professional
 description: Writes a professional email notification for legal practitioners with case details and required actions.
 category: product-requirements
-tags: ["email","notification","legal","govuk","accessibility","wcag","hmcts"]
+tags: ["email","notification","legal","govuk","accessibility","wcag","hmcts","design","inform","case","reference","deadline"]
 difficulty: intermediate
 author: Prompt Team
 version: 1.0
