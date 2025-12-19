@@ -3,7 +3,7 @@ name: multi_screen_journey
 title: Multi-screen Journey
 description: Creates a sequence of connected screens with content for each step and notes on how they fit together in the user journey.
 category: product-requirements
-tags: ["government","accessibility","content-design","ux","govuk","journey-mapping","multi-screen"]
+tags: ["government","accessibility","content-design","ux","govuk","journey-mapping","multi-screen","wcag","service-design","process","user-journey"]
 difficulty: intermediate
 author: Prompt Team
 version: 1.0
