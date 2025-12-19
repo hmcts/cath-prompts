@@ -3,7 +3,7 @@ name: risk_reg
 title: Risk Register
 description: Identifies and documents project risks with impact assessment, mitigation strategies, and monitoring plans.
 category: delivery
-tags: ["risk","register","management","delivery","assessment"]
+tags: ["risk","register","management","delivery","assessment", "assumptions", "dependencies", "scalability", "resilience", "cost", "operations", "security". "mitigations"]
 difficulty: intermediate
 author: Prompt Team
 version: 1.0
