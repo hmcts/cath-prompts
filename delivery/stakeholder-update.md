@@ -3,7 +3,7 @@ name: stakeholder_update
 title: Stakeholder update
 description: Creates a concise progress report for stakeholders highlighting achievements, blockers, and next steps.
 category: delivery
-tags: ["stakeholder","update","report","delivery","management"]
+tags: ["stakeholder","update","report","delivery","management","risk","blockers","mitigations","priority","goals","deliverables"]
 difficulty: intermediate
 author: Prompt Team
 version: 1.0
