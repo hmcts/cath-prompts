@@ -3,7 +3,7 @@ name: vision_statement
 title: Product vision statement
 description: Crafts a compelling product vision that articulates the problem, solution, and value proposition.
 category: delivery
-tags: ["product-management","vision","strategy","planning"]
+tags: ["product-management","vision","strategy","planning","timeframe","success","stakeholders","value"]
 difficulty: intermediate
 author: Prompt Team
 version: 1.0
