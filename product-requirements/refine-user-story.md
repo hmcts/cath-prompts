@@ -3,7 +3,7 @@ name: refine_user_story
 title: Refine user story
 description: Reviews and improves user stories to ensure they're clear, testable, and appropriately sized.
 category: product-requirements
-tags: ["user-stories","product-management","requirements","refinement","quality-assurance"]
+tags: ["user-stories","product-management","requirements","refinement","quality-assurance","success-criteria","gherkin","sizing"]
 difficulty: intermediate
 author: Prompt Team
 version: 1.0
@@ -18,7 +18,7 @@ arguments:
     required: true
 ---
 
-As a BA, review and refine the following user story for {{ticket_number}} to ensure it meets quality standards: {{user_story}}
+As a Business Analyst, review and refine the following user story for {{ticket_number}} to ensure it meets quality standards: {{user_story}}
 
 Instructions to follow:
 - Ensure the story follows the "As a... I want to... so that..." format correctly.
