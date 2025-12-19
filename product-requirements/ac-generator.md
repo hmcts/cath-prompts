@@ -3,7 +3,7 @@ name: ac_generator
 title: Acceptance criteria generator
 description: Creates comprehensive acceptance criteria in Given/When/Then format covering all scenarios and edge cases.
 category: product-requirements
-tags: ["acceptance-criteria","product-requirements","testing","ba","gherkin"]
+tags: ["acceptance-criteria","product-requirements","testing","business-analyst","gherkin"]
 difficulty: intermediate
 author: Prompt Team
 version: 1.0
@@ -15,12 +15,12 @@ arguments:
     required: true
 ---
 
-As a BA, generate comprehensive acceptance criteria for the following user story:
+As a Business Analyst, generate comprehensive acceptance criteria for the following user story:
 User Story: {{user_story}}
 
 Instructions to follow:
 - Write acceptance criteria in "Given, When, Then" format.
-- Cover happy path, alternative paths, and error scenarios.
+- Cover the happy path, alternative paths, and error scenarios.
 - Ensure criteria are specific, measurable, and testable.
 - Include accessibility requirements where relevant.
 - Consider edge cases and boundary conditions.
