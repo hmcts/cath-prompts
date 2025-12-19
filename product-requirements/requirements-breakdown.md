@@ -3,7 +3,7 @@ name: requirements_breakdown
 title: Requirements breakdown
 description: Decomposes high-level requirements into a sequenced set of implementable user stories with dependencies.
 category: product-requirements
-tags: ["requirements","user-stories","product-management","agile","backlog"]
+tags: ["requirements","user-stories","product-management","agile","backlog","business-analyst","success-criteria","dependencies"]
 difficulty: intermediate
 author: Prompt Team
 version: 1.0
@@ -15,7 +15,7 @@ arguments:
     required: true
 ---
 
-As a BA, break down the following high-level requirement into detailed, implementable user stories:
+As a Business Analyst, break down the following high-level requirement into detailed, implementable user stories:
 High-Level Requirement: {{requirement}}
 
 Instructions to follow:
