@@ -3,7 +3,7 @@ name: citizen_guidance
 title: Citizen guidance page
 description: Writes a guidance page to help citizens understand and use a service.
 category: product-requirements
-tags: ["government","accessibility","content-design","guidance","govuk","WCAG","citizen","standards"]
+tags: ["government","accessibility","content-design","guidance","govuk","wcag","citizen","standards"]
 difficulty: intermediate
 author: Prompt Team
 version: 1.0
