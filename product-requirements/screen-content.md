@@ -3,7 +3,7 @@ name: screen_content
 title: Screen content
 description: Drafts accessible, user-friendly content for a single service screen including questions, fields, hints, and error messages.
 category: product-requirements
-tags: ["government","accessibility","content-design","ux","govuk"]
+tags: ["government","accessibility","content-design","ux","govuk","wcag","service-design","HCI"]
 difficulty: intermediate
 author: Prompt Team
 version: 1.0
