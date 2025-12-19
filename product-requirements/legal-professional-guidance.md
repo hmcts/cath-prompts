@@ -3,7 +3,7 @@ name: legal_professional_guidance
 title: Legal-professional guidance
 description: Creates technical guidance content for legal professionals using appropriate terminology while maintaining clarity.
 category: product-requirements
-tags: ["legal","guidance","govuk","accessibility","content-design"]
+tags: ["legal","guidance","govuk","accessibility","content-design","wcag","designer","examples"]
 difficulty: intermediate
 author: Prompt Team
 version: 1.0
