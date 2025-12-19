@@ -3,7 +3,7 @@ name: spec_from_user_story
 title: Technical specification from user story
 description: Converts a Jira user story into a comprehensive technical specification document for developers.
 category: product-requirements
-tags: ["technical-spec","user-story","jira","documentation","requirements"]
+tags: ["technical-spec","user-story","jira","documentation","requirements","user-story","user-journey-flow","wireframe","accessibility","navigation"]
 difficulty: intermediate
 author: Prompt Team
 version: 1.0
@@ -18,7 +18,7 @@ arguments:
     required: true
 ---
 
-As a BA, write a technical specifications document for the following user story from ticket {{ticket_number}}:
+As a Business Analyst, write a technical specifications document for the following user story from ticket {{ticket_number}}:
 {{user_story}}
 
 Instructions to follow:
