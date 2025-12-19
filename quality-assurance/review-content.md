@@ -3,7 +3,7 @@ name: review_content
 title: Review provided content
 description: Analyses existing content against standards and provides prioritised recommendations and rewritten sections.
 category: quality-assurance
-tags: ["content-review","accessibility","govuk","quality-assurance","wcag"]
+tags: ["content-review","accessibility","govuk","quality-assurance","wcag","content-design","recomendations","assessment","feedback"]
 difficulty: intermediate
 author: Prompt Team
 version: 1.0
