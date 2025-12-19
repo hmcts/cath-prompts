@@ -3,7 +3,7 @@ name: product_roadmap
 title: Product roadmap
 description: Creates a prioritised roadmap with themes, features, and rationale aligned to strategic goals.
 category: delivery
-tags: ["product-management","roadmap","strategy","prioritization"]
+tags: ["product-management","roadmap","strategy","prioritisation", "delivery", "milestones", "objectives"]
 difficulty: intermediate
 author: Prompt Team
 version: 1.0
