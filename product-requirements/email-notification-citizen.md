@@ -3,7 +3,7 @@ name: email_notification_citizen
 title: Email notification to Citizen
 description: Drafts a clear, accessible email notification for citizens about important service updates or actions.
 category: product-requirements
-tags: ["email","notification","citizen","government","accessibility","govuk","WCAG","guidance"]
+tags: ["email","notification","citizen","government","accessibility","govuk","wcag","guidance"]
 difficulty: intermediate
 author: Prompt Team
 version: 1.0
